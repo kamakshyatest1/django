@@ -27,5 +27,8 @@ Faker
 
 # database client
 psycopg2-binary
-
+pypi://transformers@4.32.1
+pypi://urllib3@1.22
+pypi://urllib3@1.25.11
+pypi://werkzeug@2.1.2
 
